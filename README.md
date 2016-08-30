@@ -1,8 +1,8 @@
-# Complex with Java
+#Complex with Java
 
 >**Main.java**
 
-```
+```java
 public class Main {
 
 	public static void main(String[] args)
@@ -27,7 +27,7 @@ public class Main {
 >**Complex.java**
 
 
-```
+```java
 public class Complex {
 		
 		private double real;
